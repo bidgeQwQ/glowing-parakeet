@@ -1,0 +1,11 @@
+pyzbar >= 0.1.9
+opencv-python >= 4.5.1.48
+opencv-python-rolling >= 5.0.0.20221015
+numpy >= 1.19.5
+matplotlib >= 3.3.4
+
+# This is created by bidgeQAQ in 2025/05/24
+# I am using Python 3.8
+# pyzbar 0.1.9
+# opencv-python 4.11.0.86
+# numpy 1.24.1
